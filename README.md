@@ -4,6 +4,7 @@
 All data is sourced directly from the official JoSAA counselling portal.
 
 ## Features✨
+
 ✅ Multi-Exam Support
 JEE Advanced – IITs
 
@@ -43,7 +44,7 @@ Female-only seats
 📅 Multi-Year Data
 Explore trends from 2022, 2023, and 2024
 
-🚀 How to Use
+## How to Use
 Select Exam Type
 ➤ JEE Advanced or JEE Mains
 
