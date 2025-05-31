@@ -1,9 +1,14 @@
 import streamlit as st
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+
 from helpers.data_loader import load_data, clean_all_data
-from components.ui_elements import render_help_box, render_header
-from components.table_display import display_table_with_sections
 from helpers.filters import get_combined_dataframe, create_category_filter
 from helpers.status_utils import create_status_column
+from components.ui_elements import render_help_box, render_header
+from components.table_display import display_table_with_sections
+
 
 # Load & clean data
 data_dict = load_data()
