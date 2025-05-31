@@ -3,6 +3,8 @@
 
 All data is sourced directly from the official JoSAA counselling portal.
 
+access from here :- https://talkeenahmadnomani-jee-rank-app-wkeb8h.streamlit.app/
+
 ## Features✨
 
 ✅ Multi-Exam Support
