@@ -1,8 +1,8 @@
 import streamlit as st
 
 def render_header():
-    st.markdown("<h1 style='text-align: center;'>🎓 JOSAA College & Branch Finder</h1>", unsafe_allow_html=True)
-    st.markdown("<p style='text-align: center;'>Find eligible colleges and programs based on your JEE rank.</p>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>College & Branch Finder</h1>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center;'>Find eligible colleges and branch based on your JEE rank.</p>", unsafe_allow_html=True)
     st.markdown("""<hr style="margin-top: 2em;">""", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center;'>Created by Talkeen Ahmad Nomani.</p>", unsafe_allow_html=True)
 
