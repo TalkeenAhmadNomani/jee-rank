@@ -1,9 +1,9 @@
-JEE College Predictor – Streamlit Web App
-A powerful and intelligent tool designed to help JEE candidates discover their eligible colleges and engineering programs across IITs, NITs, IIITs, and GFTIs, based on their rank, category, gender, and preferences.
+# JEE College Predictor – Streamlit Web App
+## A powerful and intelligent tool designed to help JEE candidates discover their eligible colleges and engineering programs across IITs, NITs, IIITs, and GFTIs, based on their rank, category, gender, and preferences.
 
 All data is sourced directly from the official JoSAA counselling portal.
 
-✨ Features
+## Features✨
 ✅ Multi-Exam Support
 JEE Advanced – IITs
 
