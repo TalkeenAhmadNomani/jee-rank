@@ -72,7 +72,9 @@ Choose Gender
 Click “Find Eligible Programs”
 ➤ Get smart suggestions tailored to your profile
 
-📊 Understanding the Results
+## Understanding the Results 📊 .
+
+
 🔍 Status Tags:
 🎯 Fitting – You're in the opening-closing range (strong admission chance)
 
