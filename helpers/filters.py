@@ -86,7 +86,7 @@ def process_user_selection(data_dict, exam_type, institute_type, year, category,
         )
         display_table_with_sections(df[table1_filter], rank, f"All Recommended {display_name} Programs")
 
-        # --- Circuital Programs Table ---
+        # --- student can see Circuital Programs Table  ---
         st.markdown("---")
         st.subheader("⚡ Circuital Programs")
         circuital_keywords = ['Computer Science', 'Electrical', 'Electronics', 'Artificial', 'Mathematics', 'Instrumentation', 'Computational', 'Circuit', 'Data Science', 'CSE']
