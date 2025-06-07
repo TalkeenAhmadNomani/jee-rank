@@ -15,7 +15,7 @@ JEE Mains – NITs, IIITs, GFTIs
 🏫 Comprehensive Institute Coverage
 🇮🇳 IITs – Indian Institutes of Technology
 
-🇮🇳 NITs – National Institutes of Technology
+🇮🇳 NITs – National Institutes of Technology.
 
 🇮🇳 IIITs – Indian Institutes of Information Technology
 
