@@ -1,6 +1,8 @@
 import streamlit as st
 from helpers.status_utils import create_status_column
 
+## Filtering 
+
 def display_table_with_sections(df, rank, table_name, opening_down_limit=None):
     if df.empty:
         st.info(f"No programs available for {table_name}.")
@@ -8,7 +10,7 @@ def display_table_with_sections(df, rank, table_name, opening_down_limit=None):
 
     df['Status'] = create_status_column(df, rank, opening_down_limit)
     df = df.dropna(subset=['Status'])
-
+## for no program matched
     if df.empty:
         st.info(f"No programs match your criteria in {table_name}.")
         return
